@@ -1,4 +1,4 @@
--- populate the database with initial data.
+--  the database with initial data.
 INSERT INTO department (name) VALUES ('Engineering'), ('Finance'), ('HR');
 
 INSERT INTO role (title, salary, department_id) VALUES 
